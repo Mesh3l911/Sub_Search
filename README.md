@@ -14,12 +14,12 @@
 
 # Usage :
 <br>
-<code>python3 sub_search.py --d domain.com --l <Your_SubDomains_List></code>
+<code>python3 sub_search.py --d domain.com --l /Path_of_SubDomains_List/ </code>
 <br>
 
 
  # POC :
  <code>https://youtu.be/SLzJJclo4yY</code>
   
-
+دعواتكم
 # Happy Hunting ^_^ 
