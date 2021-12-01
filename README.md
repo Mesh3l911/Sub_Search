@@ -1,6 +1,6 @@
 # Sub_Search v1.0 :
 
-<br><b>A tool that automates the process of getting all levels of subdomains that have A dns record by brute-forcing forward DNS lookup </b>
+<br><b>A tool that automates the process of getting all levels of subdomains that have A dns record by brute-forcing forward DNS lookup (recursively) </b>
 <br>
 <br>
 ![](Output/sub_search.png)  <br>
