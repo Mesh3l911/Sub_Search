@@ -11,10 +11,6 @@
 <br><code>git clone https://github.com/Mesh3l911/sub_search.git</code>
 <br>
 
-# Requirements :
-<br>
-<code>pip install -r requirements.txt</code>
-<br>
 
 # Usage :
 <br>
